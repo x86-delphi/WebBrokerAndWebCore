@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.778,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Unit1.html=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project2.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Unit1.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.846,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Project2.html=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project2.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Project2.html=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\App.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\WebCoreClient.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\SampleWeb.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.863,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Unit1.dfm=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\SampleWeb.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\SampleWeb.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\First.dfm=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\SampleWeb.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\First.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.186,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\TMS_Web_Core\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

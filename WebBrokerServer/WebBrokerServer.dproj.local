@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.471,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\ServerConst1.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\AttributeClasses.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Attributes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\ConnectionModule.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\HumansController.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerAndWebCore\WebBrokerServer\WebBrokerServer.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerAndWebCore\WebBrokerServer\WebBrokerForTMS.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Attributes.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Customer_Model.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Customers_Model.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Customer_Model.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Developers_Model.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Developers_Controller.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\HumansController.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\ConnectionModule.dfm=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit3.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\AttributeClasses.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.498,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit3.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\SQLQueries.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.098,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\HumansModel.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.589,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Customers_Model.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\DevelopersModel.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\HumansModel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Customer_Controller.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Customers_Controller.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.589,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Customer_Controller.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Developers_Controller.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\WebModuleUnit1.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Developers_Model.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\DevelopersModel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\WebBrokerForTMS.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\CommonTypes.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\WebModuleUnit1.dfm=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.784,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\QueryHelperClass.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebBrokerForTMS\Unit3.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="WebModuleUnit1.pas"/>
+    <File Path="WebModuleUnit1.dfm"/>
+    <File Path="ServerConst1.pas"/>
+    <File Path="Customers_Controller.pas"/>
+    <File Path="QueryHelperClass.pas"/>
+    <File Path="ConnectionModule.pas"/>
+    <File Path="ConnectionModule.dfm"/>
+    <File Path="CommonTypes.pas"/>
+    <File Path="SQLQueries.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
